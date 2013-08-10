@@ -9,8 +9,8 @@
 	"ITEM_FLAG_NOITEMPICKUP" 	"1"
 	
 	// Attributes TF.
-	"Damage"			"35"
-	"TimeFireDelay"			"0.5"
+	"Damage"			"350" // 35
+	"TimeFireDelay"			"0.1" // 0.5
 	"TimeIdle"			"5.0"
 
 	// Ammo & Clip
